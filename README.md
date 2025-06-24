@@ -1,6 +1,7 @@
 # 💫 About Me:
 👨‍💻 Aspiring MERN Stack Developer | Mathematics Undergrad  <br>🚀 Learning Web Development to build real-world projects  <br>🎯 Aiming for freelancing, tech jobs, and AI in the long run<br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NazmulhaqueD&label=Profile%20views&color=0e75b6&style=flat" alt="NazmulhaqueD" /> </p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/mdnajmulhaque.selim.9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnajmulhaque982@gmail.com) 
