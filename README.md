@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/qgrVmPg/nazmul-dev-banner.png" alt="Nazmul Haqqi Banner" width="100%" />
+  <img src="https://github.com/NazmulhaqueD/NazmulhaqueD/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png?raw=true" alt="Nazmul Haqqi Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Nazmul Haqqi</h1>
