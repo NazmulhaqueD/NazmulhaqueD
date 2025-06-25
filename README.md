@@ -3,18 +3,7 @@
   <img src="https://github.com/NazmulhaqueD/NazmulhaqueD/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png?raw=true" alt="Nazmul Haqqi Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Md. Nazmul Haqqi</h1>
-<h3 align="center">Aspiring MERN Stack Developer | Mathematics Undergraduate</h3>
-
-<p align="center">
-  🚀 Currently learning <strong>Next.js</strong> and building real-world projects <br/>
-  🎯 Focused on freelancing, tech jobs, and AI in the long run <br/>
-  📍 Based in Kurigram, Bangladesh
-</p>
-
 ---
-
-
 
 # 💫 About Me:
 👨‍💻 Aspiring MERN Stack Developer | Mathematics Undergrad  <br>🚀 Currently learning Next.js and building real-world projects <br>🎯 Aiming for freelancing, tech jobs, and AI in the long run<br>
