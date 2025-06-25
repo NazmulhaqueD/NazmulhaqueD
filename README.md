@@ -17,7 +17,7 @@
 
 
 # 💫 About Me:
-👨‍💻 Aspiring MERN Stack Developer | Mathematics Undergrad  <br>🚀 Learning Web Development to build real-world projects  <br>🎯 Aiming for freelancing, tech jobs, and AI in the long run<br>
+👨‍💻 Aspiring MERN Stack Developer | Mathematics Undergrad  <br>🚀 Currently learning Next.js and building real-world projects <br>🎯 Aiming for freelancing, tech jobs, and AI in the long run<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NazmulhaqueD&label=Profile%20views&color=0e75b6&style=flat" alt="NazmulhaqueD" /> </p>
 
