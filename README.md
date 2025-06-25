@@ -1,3 +1,21 @@
+
+<p align="center">
+  <img src="https://i.ibb.co/qgrVmPg/nazmul-dev-banner.png" alt="Nazmul Haqqi Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Md. Nazmul Haqqi</h1>
+<h3 align="center">Aspiring MERN Stack Developer | Mathematics Undergraduate</h3>
+
+<p align="center">
+  🚀 Currently learning <strong>Next.js</strong> and building real-world projects <br/>
+  🎯 Focused on freelancing, tech jobs, and AI in the long run <br/>
+  📍 Based in Kurigram, Bangladesh
+</p>
+
+---
+
+
+
 # 💫 About Me:
 👨‍💻 Aspiring MERN Stack Developer | Mathematics Undergrad  <br>🚀 Learning Web Development to build real-world projects  <br>🎯 Aiming for freelancing, tech jobs, and AI in the long run<br>
 
